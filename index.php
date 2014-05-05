@@ -124,7 +124,7 @@ if(isset($_POST['submit'])) {
 
 							<div class="col-sm-12">
 								<h1>Contact</h1>
-								 <h2 class="subTitle">I am keen to get industry experience and work with a great team. Can you help?</h2>
+								 <h2 class="subTitle">I am keen to get industry experience and work with a great team. </h2>
 							</div>
 							
 								<div class="col-sm-6 address">
